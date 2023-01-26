@@ -1,0 +1,13 @@
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.pdb
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.AssemblyReference.cache
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb
