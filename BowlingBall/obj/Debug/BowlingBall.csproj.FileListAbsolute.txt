@@ -1,0 +1,6 @@
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.AssemblyReference.cache
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Project Data\Tavisca\code-starter-kits-master\code-starter-kits-master\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
